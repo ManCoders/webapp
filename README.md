@@ -1,2 +1,2 @@
-# webapp
+# MyWebPage
 Educational purposes 
